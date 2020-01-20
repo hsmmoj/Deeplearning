@@ -1,6 +1,6 @@
 # Neutal Networks and Deeplearning
-lecturer: DR. Ahmad Kalhor
-Faculty of Electriacal and Computer Engineering at Univrsity of Tehran
+<p>Lecturer: Dr. Ahmad Kalhor
+<p>Faculty of Electriacal and Computer Engineering at Univrsity of Tehran
 
 # Table of Contents
 
